@@ -59,14 +59,7 @@ Inclui:
 
 ---
 
-## 🎯 Aprendendo Agora
-- Arquitetura limpa no Flutter  
-- Next.js 15  
-- Firebase avançado  
-
----
-
 ## 📬 Contato
 📧 **Email:** phpires2008@gmail.com  
 📍 Limeira – SP  
-🔗 LinkedIn: *(adicione seu link aqui)*  
+🔗 LinkedIn: https://www.linkedin.com/in/pedro-henrique-pires-73289135b/
