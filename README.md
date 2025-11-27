@@ -45,17 +45,60 @@
 
 ---
 
-## 🧩 Projetos em Destaque
+## 🧩 Projeto em Destaque
 
-### 📱 Pet Loc – App Mobile + Web
-Aplicação completa para cadastro e visualização de pets com Flutter + Next.js + Firebase.
+### 🐾 PetLoc – Plataforma Web + Mobile para Localização de Pets
 
-Inclui:
-- CRUDs
-- Realtime Database + Firestore
-- Autenticação
-- Componentes reutilizáveis
-- Arquitetura organizada
+O **PetLoc** é um projeto completo desenvolvido em **Flutter (mobile)** e **Next.js (web)** com o objetivo de ajudar na resolução do problema de desaparecimento de pets.  
+A plataforma reúne recursos voltados à comunidade, oferecendo ferramentas úteis tanto para donos de animais quanto para voluntários que desejam ajudar.
+
+---
+
+### 🔥 Principais Funcionalidades
+
+#### 📌 Anúncios de Pets Desaparecidos
+- Cadastro, listagem e visualização de animais desaparecidos  
+- Exibição de detalhes completos, foto e informações de contato  
+
+#### 🐶 Perfis de Pets
+- Cada pet possui um perfil individual  
+- Foto, descrição, status (desaparecido, encontrado, disponível etc.)  
+
+#### 🛍️ Loja Integrada
+- Sistema completo de produtos para pets  
+- Cadastro, edição e exclusão de itens (para administradores)  
+- Exibição para usuários  
+
+#### 🌐 Comunidade – Blogs e Grupos
+- Conteúdos informativos
+- Notícias
+- Grupos de bate-papo e interação entre usuários  
+- Fortalecimento da comunidade através da colaboração
+
+#### 👤 Sistema de Usuários Avançado
+- Cadastro, login e autenticação com Firebase Auth  
+- Perfis individuais  
+- Distinção entre **usuários comuns** e **administradores**  
+- Permissões aplicadas corretamente em cada módulo  
+
+---
+
+### 🗄️ Tecnologias Utilizadas
+
+#### 📱 Mobile
+- **Flutter**
+- **Dart**
+
+#### 💻 Web
+- **Next.js**
+- **TypeScript**
+
+#### 🔧 Back-end / Dados
+- **Firebase Realtime Database**
+- **Firestore**
+
+#### 🔐 Autenticação
+- **Firebase Auth**
 
 ---
 
